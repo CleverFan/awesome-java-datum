@@ -18,7 +18,7 @@ java学习资料总结，包括教学视频，电子书以及一些网站等。
  - [马士兵_JAVA视频教程](https://pan.baidu.com/s/1i5wWfyd)
  - [千峰学院java4android](https://pan.baidu.com/s/1miBdjD2)
  - [孙鑫java视频教程](https://pan.baidu.com/s/1o7RDLNG)
- - [张孝详J2SE高深讲解](https://pan.baidu.com/s/1dFKeRW9)
+ - [张孝详J2SE高深讲解](https://pan.baidu.com/s/1geXrLQV)
  - 待更新。。。
  
  
