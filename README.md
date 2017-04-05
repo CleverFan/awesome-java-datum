@@ -74,4 +74,16 @@ java学习资料总结，包括教学视频，电子书以及一些网站等。
 ## 电子书
 //待更新
 ## 学习网站
+ - [牛客网](https://www.nowcoder.com)  it笔试面试备考平台
+ - [汇智网](http://www.hubwiz.com/) 在线课堂（可在线编程）
+ - [free code camp](https://www.freecodecamp.com/) 前端教程网（有中文网站，国外很出名）
+ - [stackoverflow](http://stackoverflow.com/) 不多说了，你遇到的99%的问题，在这里都能找到答案
+ - [leetcode](https://leetcode.com/) 算法数据结构必备（支持多种语言）
+ - [极客学院](http://www.jikexueyuan.com/) it在线教育平台
+ - [网易云课堂](http://study.163.com/) 实用技能学习平台（不仅仅是it）
+ - [慕课网](http://www.imooc.com/) 程序员的梦工厂
+ - [实验楼](https://www.shiyanlou.com/) it在线实训平台（有在线linux系统）
+ - []()
+ - []()
+ - []()
 //待更新
