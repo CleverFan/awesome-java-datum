@@ -29,7 +29,7 @@ java学习资料总结，包括教学视频，电子书以及一些网站等。
  
  
 ### javaweb
- - [张孝祥javaweb视频（前7天使另一个老师）](https://pan.baidu.com/s/1pL4m5ar)
+ - [张孝祥javaweb视频（前7天使另一个老师）](https://pan.baidu.com/s/1bpd7mIN)  密码: w2re
  - [郭克华J2EE高级框架实战教学视频](https://pan.baidu.com/s/1bWNfhs)
  - [韩顺平j2ee视频实战教程](https://pan.baidu.com/s/1o8M50Ye)
  - [传智播客_轻松掌握JavaWeb视频教程](https://pan.baidu.com/s/1c29Y9Io)
@@ -87,3 +87,7 @@ java学习资料总结，包括教学视频，电子书以及一些网站等。
  - []()
  - []()
 //待更新
+
+## 分享失败是百度云搞的鬼。。暂时没时间解决啊，可以进我的百度云主页找~
+
+
